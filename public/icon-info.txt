@@ -1,0 +1,7 @@
+Icon Description:
+- A simple clock icon with a legal theme
+- Blue background (#2E3B55)
+- White clock hands
+- Circular design
+
+For production, this would be replaced with actual icon.png and icon.ico files.
